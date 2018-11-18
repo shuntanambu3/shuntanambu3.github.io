@@ -45,10 +45,6 @@ a:hover
     text-align: center;
 }
 
-.block-center.profile-icon {
-    transform:rotate(90deg);
-}
-
 .block-center,
 section .container,
 #skills i
